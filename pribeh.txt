@@ -1,0 +1,196 @@
+Hrdina z Galdory – Gamebook
+Úvod
+
+Jsi mladý dobrodruh jménem Eldrin, který se rozhodl vypravit na nebezpečnou výpravu za legendárním artefaktem známým jako Srdce Galdory. Tento artefakt je údajně schopen změnit osud světa, pokud padne do nesprávných rukou. Město Galdory, kdysi rozvinuté a mocné, bylo před dávnými věky ztraceno a nyní se zdá, že je na dosah ruky. Když opustíš svou vesnici a vydáš se na cestu, netušíš, co všechno tě čeká.
+1. kapitola: Vstup do temného lesa
+
+Po několika dnech cesty se dostaneš na okraj temného lesa, který je známý svou nebezpečností. Les skrývá mnohá tajemství a zlé bytosti, které jsou ochotny tě zničit. Cítíš, že se musíš rozhodnout, jak do lesa vstoupíš.
+
+    A) Vstoupíš přímo do lesa, připraven čelit nebezpečím.
+    B) Pokusíš se les obejít, doufaje, že najdeš bezpečnější cestu.
+    C) Rozhodneš se kempovat na okraji lesa a počkat na lepší podmínky.
+
+Pokud zvolíš A, pokračuj na kapitolu 2.
+Pokud zvolíš B, pokračuj na kapitolu 3.
+Pokud zvolíš C, pokračuj na kapitolu 4.
+2. kapitola: Setkání s tajemným stvořením
+
+Jak postupuješ hlouběji do lesa, ocitneš se v oblasti plné podivných zvuků. Netrvá dlouho, než se objeví tajemné stvoření – stvůra, která vypadá jako kříženec mezi vlkem a sovou. Je to nebezpečné, ale možná tě může vést.
+
+    A) Zkusíš stvoření uklidnit a přiblížit se k němu.
+    B) Vytasíš meč a připravíš se na boj.
+    C) Uchýlíš se k útěku a skrýváš se v křoví.
+
+Pokud zvolíš A, pokračuj na kapitolu 5.
+Pokud zvolíš B, pokračuj na kapitolu 6.
+Pokud zvolíš C, pokračuj na kapitolu 7.
+3. kapitola: Zrádná stezka
+
+Rozhodl ses obejít les a vydal ses po zjevně bezpečné stezce. Po několika hodinách však zjistíš, že stezka je plná pastí. Kámen se sune dolů a zablokuje ti cestu.
+
+    A) Skočíš stranou, abys se vyhnul padající desce.
+    B) Pokusíš se zastavit desku, i když víš, že je to riskantní.
+    C) Uchýlíš se zpět a vrátíš se do lesa.
+
+Pokud zvolíš A, pokračuj na kapitolu 8.
+Pokud zvolíš B, pokračuj na kapitolu 9.
+Pokud zvolíš C, pokračuj na kapitolu 10.
+4. kapitola: Noční past
+
+Po rozhodnutí tábořit na okraji lesa a čekat do rána tě probudí podivné zvuky. Před tebou se vynoří obrovský netopýr, přitahovaný tvým ohněm. Co uděláš?
+
+    A) Snažíš se uhasit oheň a skrýváš se, doufajíc, že netopýr zmizí.
+    B) Uchopíš luk a pokusíš se netopýra zasáhnout.
+    C) Pokusíš se netopýra zahnat mečem.
+
+Pokud zvolíš A, pokračuj na kapitolu 11.
+Pokud zvolíš B, pokračuj na kapitolu 12.
+Pokud zvolíš C, pokračuj na kapitolu 13.
+5. kapitola: Ticho a klid
+
+Stvoření, které ses pokusil uklidnit, tě nakonec neohrozí. Po několika minutách přítomnosti se otočí a odchází do lesa. Pokračuješ ve své cestě a po hodině chůze narazíš na starý, opuštěný chrám. Co uděláš?
+
+    A) Vstoupíš do chrámu a prozkoumáš jeho vnitřek.
+    B) Pokusíš se najít tajné vchody nebo jiné východy.
+    C) Ustoupíš a rozhodneš se pokračovat do lesa.
+
+Pokud zvolíš A, pokračuj na kapitolu 14.
+Pokud zvolíš B, pokračuj na kapitolu 15.
+Pokud zvolíš C, pokračuj na kapitolu 16.
+6. kapitola: Boj na život a na smrt
+
+Stvoření tě napadne dříve, než stihneš zareagovat. Vytahuješ meč a snažíš se bránit, ale stvoření je příliš silné. Po krátkém a divokém boji tě přemůže a zahyneš.
+
+Konec hry – Smrt hrdiny.
+7. kapitola: Útěk do lesa
+
+Když vidíš, jak stvoření přichází blíž, rozhodneš se rychle utéct a schovat se v křoví. Po chvíli zjistíš, že stvoření tě ztratilo a odešlo. V lese je však stále nebezpečno, a tak pokračuješ v cestě. Po hodině chůze přicházíš k hrobce.
+
+    A) Vstoupíš do hrobky a zkoumáše ji.
+    B) Prozkoumáš okolí a hledáš jiné možnosti.
+    C) Vrátíš se zpět do lesa.
+
+Pokud zvolíš A, pokračuj na kapitolu 17.
+Pokud zvolíš B, pokračuj na kapitolu 18.
+Pokud zvolíš C, pokračuj na kapitolu 19.
+17. kapitola: Tajemství hrobky
+
+Vstoupíš do hrobky a objevíš ve stínu místnosti zlatý artefakt – Srdce Galdory. Jakmile ho vezmeš do rukou, začíná se ozývat hlas: „Jsi poslední, kdo může použít tuto sílu. Buď hrdinou, nebo znič svět!“ To je moment, kdy musíš učinit rozhodnutí.
+
+    A) Použiješ artefakt k tomu, aby ses stal vládcem světa.
+    B) Srdce použiješ k tomu, abys přivedl svět k míru.
+    C) Rozhodneš se artefakt zničit, abys zabránil jeho zneužití.
+
+Pokud zvolíš A, pokračuj na kapitolu 20.
+Pokud zvolíš B, pokračuj na kapitolu 21.
+Pokud zvolíš C, pokračuj na kapitolu 22.
+20. kapitola: Vláda temnoty
+
+Použiješ Srdce Galdory k tomu, abys získal neomezenou moc. Svět se začíná měnit – lidé tě začnou uctívat jako boha. Avšak tvá moc tě postupně zničí. Začínáš ztrácet svou lidskost a stáváš se tyranem. Nakonec ztrácíš vše a svět padá do chaosu.
+
+Konec hry – Smrt hrdiny (a zničení světa).
+21. kapitola: Mír na zemi
+
+Rozhodneš se použít Srdce Galdory k tomu, abys přivedl svět k míru. S jeho pomocí sjednotíš království a ukončíš všechny války. Lidé tě oslavují jako hrdinu a celá civilizace prosperuje. Stáváš se legendou, která je navždy vzpomínána.
+
+Konec hry – Vítězství hrdiny.
+22. kapitola: Zničení artefaktu
+
+Rozhodneš se artefakt zničit, abys zabránil jeho zneužití. Srdce Galdory exploduje v ohromné záři, což vede k zániku jeho moci. I když zničíš velkou hrozbu, cena za to je vysoká. Tvé tělo se zraní a nakonec umíráš, ale svět je zachráněn.
+
+Konec hry – Smrt hrdiny, ale zachráněný svět.
+8. kapitola: Skočení stranou
+
+Skočíš rychle stranou, když tě hrozící deska málem zasáhne. Kameny však způsobí, že se ti poraní noha. Zpomalíš a musíš se zastavit, aby ses ošetřil.
+
+    A) Pokusíš se ošetřit zranění a pokračovat dál.
+    B) Rozhodneš se vrátit a hledat jinou cestu.
+    C) Rozhodneš se odpočinout a počkat na pomoc.
+
+Pokud zvolíš A, pokračuj na kapitolu 23.
+Pokud zvolíš B, pokračuj na kapitolu 24.
+Pokud zvolíš C, pokračuj na kapitolu 25.
+9. kapitola: Zastavení desky
+
+Pokusíš se zastavit padající kámen, ale je příliš těžký. Deska tě zasáhne, ale ty se statečně pokusíš převalit z pod ní. Při tomto úsilí utrpíš těžké zranění a musíš se vrátit.
+
+Konec hry – Smrt hrdiny.
+10. kapitola: Útěk zpět do lesa
+
+Vracíš se zpět do lesa, ale ztrácíš spoustu času a tvoje zásoby začínají docházet. Nakonec narazíš na skupinu banditů, kteří tě okradou a nechají tě na pokraji smrti.
+
+Konec hry – Smrt hrdiny.
+
+Konec gamebooku
+
+11. kapitola: Zhasnutí ohně
+
+Snažíš se uhasit oheň a skrýt se, ale netopýr tě okamžitě najde. Napadá tě s neuvěřitelnou rychlostí a přetíží tě svou silou. I když se bráníš, nedokážeš se ubránit jeho drápům. Po krátkém, intenzivním útoku se tvé tělo přestane hýbat a svět kolem tebe se zatemní.
+
+Konec hry – Smrt hrdiny.
+
+12. kapitola: Útok na netopýra
+
+Pokusíš se netopýra zasáhnout, ale nestihneš vystřelit včas. Netopýr tě napadne s neuvěřitelnou rychlostí, jeho drápy ti prorazí kůži a rány jsou smrtelné. Po několika marných pokusech o obranu upadáš do bezvědomí a nakonec zemřeš.
+
+Konec hry – Smrt hrdiny.
+
+13. kapitola: Meč proti netopýrovi
+
+Pokud se rozhodneš použít meč, netopýr tě rychle přemůže. I když se bráníš, jeho rychlé a přesné útoky ti nedávají šanci. Zasažen smrtelným úderem, ztrácíš vědomí a tvé tělo se zhroutí na zem.
+
+Konec hry – Smrt hrdiny.
+
+14. kapitola: Chrám plný nebezpečí
+
+Vstoupíš do chrámu, ale neuvědomuješ si, že aktivuješ starověké pasti. Chrám se začne hroutit a ty se snažíš utéct. Bohužel, sesuneš se pod padajícími kameny a všechno kolem tebe se zhroutí. Není cesty ven.
+
+Konec hry – Smrt hrdiny.
+
+15. kapitola: Tajné vchody
+
+Po hledání tajných vchodů se dostaneš do skrytého tunelu, který však končí pasti. Když se dostaneš do jejího středu, spustí se mechanismus, který tě uvězní v ocelových poutech. Přestože se snažíš uniknout, čas ti vyprší a končíš v pasti.
+
+Konec hry – Smrt hrdiny.
+
+16. kapitola: Ústup do lesa
+
+Vrátíš se zpět do lesa, ale ztrácíš příliš mnoho času. Bez zásob a se zraněním, brzy padneš do rukou divokých bestií, které tě zcela roztrhají.
+
+Konec hry – Smrt hrdiny.
+
+17. kapitola: Prokletí hrobky
+
+Jakmile vezmeš artefakt, zjistíš, že jsi uvězněn v temné magii, která tě začne vysávat. Cítíš, jak ztrácíš energii a s každým okamžikem se ti zhoršuje zdraví. V okamžiku, kdy tvé tělo přestane fungovat, padneš k zemi, navždy zničený prokletím artefaktu.
+
+Konec hry – Smrt hrdiny.
+
+18. kapitola: Hledání jiných možností
+
+Pokud se rozhodneš hledat jiné možnosti, začneš bloudit chodbami, kde se dostaneš do nebezpečné pasti. Tvé kroky jsou neustále sledovány, a nakonec tě zasáhne jedovatý šíp. I přes všechny pokusy o záchranu tě jed pomalu zabíjí.
+
+Konec hry – Smrt hrdiny.
+
+19. kapitola: Návrat do lesa
+
+Když se vrátíš zpět do lesa, zabloudíš a narazíš na neznámé stvoření, které tě napadne. Tvá poslední snaha o útěk selže a stvůra tě roztrhá na kusy.
+
+Konec hry – Smrt hrdiny.
+
+23. kapitola: Ošetření zranění
+
+Pokud se rozhodneš ošetřit zranění, noha začne silně bolet a zjistíš, že máš infekci. Vědomí tě opustí, jak se nemoc rozšíří a ty umíráš osamocený na okraji cesty.
+
+Konec hry – Smrt hrdiny.
+
+24. kapitola: Zpět na začátek
+
+Pokud se rozhodneš vrátit, tvé zásoby začínají docházet. Po několika dnech vyčerpání a dehydratace se zhroutíš. Už nemáš sílu pokračovat a nakonec umíráš v lesním tichu.
+
+Konec hry – Smrt hrdiny.
+
+25. kapitola: Odpočinek a čekání na pomoc
+
+Pokud se rozhodneš čekat na pomoc, nakonec zjistíš, že žádná pomoc nikdy nepřijde. S přibývajícími dny ztrácíš naději, hlad a žízeň tě přemáhají, až umíráš osamocený v temném lese.
+
+Konec hry – Smrt hrdiny.
